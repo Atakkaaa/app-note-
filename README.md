@@ -11,7 +11,7 @@
 
 ## Screenshots 
 <p float="center">
-  <img src="./screenshots/Edit Note.jpg" alt="Logo Project" width="200"/>
+  <img src="screenshots/Edit%20Note.jpg" alt="Logo Project" width="200"/>
   <img src="./screenshots/halaman utama kosong.jpg" alt="Logo Project" width="200"/>
   <img src="./screenshots/halaman utama setalah ada catatan.jpg" alt="Logo Project" width="200"/>
 </p>
